@@ -1,1 +1,1 @@
-a cpp program to print hello world
+a trivial cpp program to print hello world
